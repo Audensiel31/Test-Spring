@@ -1,13 +1,13 @@
 # Présentation
 
-Le bug de l'excercice est l'implémentation d'un petit back-end avec Spring boot.
+Le bug de l'exercice est l'implémentation d'un petit back-end avec Spring boot.
 
 On partira d'un contexte simple qui est la gestion d'une liste d'élève et de leurs notes.
 
 # Les règles métiers :
-* Un elève peut avoir 0..n notes.
-* Une note est forcément ratachée à un élève.
-* Tout les autres champs sont obligatoires.
+* Un élève peut avoir 0..n notes.
+* Une note est forcément rattachée à un élève.
+* Tous les autres champs sont obligatoires.
 * Une note est entre 0 et 20.
 
 # Le but du jeux
