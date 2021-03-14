@@ -1,6 +1,6 @@
 # Présentation
 
-Le bug de l'exercice est l'implémentation d'un petit back-end avec Spring boot.
+Le but de l'exercice est l'implémentation d'un petit back-end avec Spring boot.
 
 On partira d'un contexte simple qui est la gestion d'une liste d'élève et de leurs notes.
 
