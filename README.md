@@ -18,5 +18,6 @@ On partira d'un contexte simple qui est la gestion d'une liste d'élève et de l
 * Aucune exception (non custom) ne doit pouvoir être levée.
 * Garantir l'intégrité des données en toute circonstance.
 * Faire l'application la plus performante possible.
+* Vous pouvez utiliser les librairies de votre choix.
 
 Que la Force soit avec vous!
